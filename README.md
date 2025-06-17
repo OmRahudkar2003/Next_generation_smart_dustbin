@@ -1,7 +1,7 @@
 # Next_generation_smart_dustbin
 Next generation smart dustbin with advance Smell Detection Minimizing False Alarm through Selective Sensor - College Project 
 
-Next-Gen Smart Dustbin with IoT & Advanced Sensors | Team Lead & Embedded Developer | *2023–2024*
+#Next-Gen Smart Dustbin with IoT & Advanced Sensors | Team Lead & Embedded Developer | *2023–2024*
 *(ESP32, Arduino, Python, IoT, DHT11, MQ2, Ultrasonic Sensors, Firebase/ESP RainMaker)*
 
 Developed an IoT-based smart dustbin to revolutionize urban waste management, integrating real-time monitoring of temperature, humidity, and hazardous gases (methane/CO2) using ESP32 and sensor networks.
